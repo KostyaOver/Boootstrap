@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+* {
+    color: #383D45;
+}
+main {
+    background-image: url("./img/back.png");
+    width: 100%;
+    height: 100vh;
+}
+
+.header {
+    margin-top: 12%;
+}
+
+.header h1 {
+    font-size: 4rem;
+    font-family: 'Amatic SC', cursive;
+}
+
+.header p {
+    font-size: 1.5rem;
+}
+
+.btn {
+    background-color: #B3C706;
+    color: #fff;
+}
+
+.sotial {
+    margin-top: 10%;
+}

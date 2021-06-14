@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+.header {
+    background-color: #e9ecef;
+}
+
+.header h2 {
+    font-family: 'Amatic SC', cursive;
+}
+
+.btn {
+    background-color: #B3C706;
+    color: #fff;
+}
+
+.event {
+    background-image: url("./img/contact.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.career {
+    background-image: url("./img/photo-1521017432531-fbd92d768814.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    background-position: 0px -430px;
+}
+
+.about {
+    background-image: url("./img/photo-1508766917616-d22f3f1eea14.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    background-position: 0px -130px;
+}
+
+.contact {
+    background-image: url("./img/contact-2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    background-position: 0px -200px;
+}
+
+html,
+body {
+	height: 100%;
+}
+
+main {
+    position: relative;
+    min-height: 100%;
+}
+
+.footer {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
